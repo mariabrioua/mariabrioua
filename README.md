@@ -1,6 +1,10 @@
 ## Hey there 😊
 I'm Maria an L3 Computer Science Student | Specialized in Inforation Systems & Software Engineering
 Final Year Thesis Candidate 2025/2026
+## About Me 
+I'm still a student and a warrior in this life. It can be hard sometimes but i'm nerver giving up on me or in such a unique way of thinking i have
+It will appear through my future projects here 😉
+
 <!--
 **mariabrioua/mariabrioua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
